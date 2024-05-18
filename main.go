@@ -19,6 +19,7 @@ import (
 )
 
 func main() {
+	fmt.Println("Hola a todos")
 	lambda02.Start(EjecutoLambda)
 }
 
